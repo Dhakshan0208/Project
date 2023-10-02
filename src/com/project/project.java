@@ -10,6 +10,8 @@ public class project {
 				
 		System.out.println("hello");
 		System.out.println("hllo");
+		System.out.println("hllo");
+		
 
 	}
 
