@@ -9,7 +9,12 @@ public class project {
 		// TODO Auto-generated method stub
 				
 		System.out.println("hello");
+
 		System.out.println("hlo");	
+
+		System.out.println("hllo");
+		System.out.println("hllo");
+		
 
 	}
 
