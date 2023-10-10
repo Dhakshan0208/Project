@@ -19,11 +19,9 @@ public class project {
 
 		System.out.println("h");
 		System.out.println(" ");
-<<<<<<< HEAD
 		System.out.println("hllo");
-=======
 
->>>>>>> branch 'master' of git@github.com:Dhakshan0208/Project.git
+
 		
 
 	}
